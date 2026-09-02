@@ -1,0 +1,16 @@
+transformers
+datasets
+accelerate
+sentencepiece
+tokenizers
+camel-tools
+evaluate
+sacrebleu
+bert-score
+pynvml
+pandas
+pyarrow
+tqdm
+hydra-core
+omegaconf
+wandb
